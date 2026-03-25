@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/restsharp/RestSharp",
+  "branch": "main",
+  "docusaurusRoot": "docs",
+  "configFile": "docs/docusaurus.config.ts",
+  "translateCommand": "pnpm run write-translations",
+  "buildCommand": "pnpm run build",
+  "buildOutput": "build",
+  "packageManager": "pnpm"
+}
